@@ -165,7 +165,7 @@ Input:[1 1], Predicted: 0.0
 
 
 ## RESULT:
-
+Thus The Implementation Of XOR Using Radial Bases Function has been Implemented Successfully.
 
 
 
