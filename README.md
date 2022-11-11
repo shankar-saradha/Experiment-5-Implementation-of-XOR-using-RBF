@@ -40,7 +40,7 @@ In the end_to_end function, first calculate the similarity between the inputs an
 
 Each row of A (shape: (4, 2)) consists of
 
-#Step3:
+## Step3:
 Index[0]: similarity of point with peak1
 
 index[1]: similarity of point with peak2
